@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+}
+
+.ll{
+  
+  margin: 10px auto ;
+  font-weight: bold;;
+  
+}
+.ans{
+  font-weight: bold;
+  font-size: 15px;
+  
+}
+.maincounter{
+  text-align: center;
+}
+.counter{
+  color: green;
+  border: 1px solid;
+  display: inline-block;
+  padding: 5px ;
+  margin: 2px;
+}
+.ctext{
+  display: inline-block;
+  margin: 2px;
+  color: green;
+}
+.dtext{
+  display: inline-block;
+  margin: 2px;
+  color: red;
+}
+.dcounter{
+  color: red;
+  border: 1px solid;
+  display: inline-block;
+  padding: 5px ;
+  margin: 2px;
+}
